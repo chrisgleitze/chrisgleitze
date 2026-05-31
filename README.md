@@ -10,8 +10,7 @@ On the engineering side, I work with React, Next.js, JavaScript, TypeScript, Jav
 
 - [Kant and AI](https://www.kantandai.com)
 - [Hegel and AI](https://www.hegelandai.com)
-- [kant.nvim](https://github.com/chrisgleitze/kant.nvim)
-- [hegel.nvim](https://github.com/chrisgleitze/hegel.nvim)
+- Neovim plugins: [kant.nvim](https://github.com/chrisgleitze/kant.nvim) and [hegel.nvim](https://github.com/chrisgleitze/hegel.nvim)
 - [my Coding YouTube channel](https://www.youtube.com/@connectingdotscoding)
 - [christiangleitze.com](https://www.christiangleitze.com)
 - my podcast The Connecting Dots Podcast on [Spotify](https://open.spotify.com/show/68Ojkgjc3ybfwcpfLnKnau?si=wYO5awHvSRGHCZRGZvsocQ), [Apple Podcasts](https://podcasts.apple.com/de/podcast/the-connecting-dots-podcast/id1479050991?l=en) and [YouTube](https://www.youtube.com/channel/UC-1PjgE_j85PZpqS-E6Gjhg)
