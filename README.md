@@ -8,7 +8,7 @@ On the engineering side, I work with React, Next.js, JavaScript, TypeScript, Jav
 
 ## Links
 
-my platforms for the intersection of classical German philosophy and AI:
+my platforms for the intersection of classical German Philosophy and AI:
 
 - [Kant and AI](https://www.kantandai.com)
 - [Hegel and AI](https://www.hegelandai.com)
@@ -17,6 +17,6 @@ my platforms for the intersection of classical German philosophy and AI:
 
 my podcast The Connecting Dots Podcast on
 
-- [Spotify](https://open.spotify.com/show/68Ojkgjc3ybfwcpfLnKnau?si=wYO5awHvSRGHCZRGZvsocQ)
-- [Apple Podcasts](https://podcasts.apple.com/de/podcast/the-connecting-dots-podcast/id1479050991?l=en)
-- [YouTube](https://www.youtube.com/channel/UC-1PjgE_j85PZpqS-E6Gjhg)
+    - [Spotify](https://open.spotify.com/show/68Ojkgjc3ybfwcpfLnKnau?si=wYO5awHvSRGHCZRGZvsocQ)
+    - [Apple Podcasts](https://podcasts.apple.com/de/podcast/the-connecting-dots-podcast/id1479050991?l=en)
+    - [YouTube](https://www.youtube.com/channel/UC-1PjgE_j85PZpqS-E6Gjhg)
