@@ -10,6 +10,7 @@ My philosophical work focuses on institutional responsibility for AI systems. I 
 
 - [Kant and AI](https://www.kantandai.com)
 - [Hegel and AI](https://www.hegelandai.com)
+- [Philosophy and AI](https://www.philosophy-and-ai.com)
 - Neovim plugins: [kant.nvim](https://github.com/chrisgleitze/kant.nvim) and [hegel.nvim](https://github.com/chrisgleitze/hegel.nvim)
 - [my Coding YouTube channel](https://www.youtube.com/@connectingdotscoding)
 - [christiangleitze.com](https://www.christiangleitze.com)
