@@ -4,7 +4,7 @@ a Software Engineer and Philosopher based in Frankfurt, Germany.
 
 On the engineering side, I work with React, Next.js, JavaScript, TypeScript, Java, Linux, Vim and Neovim. I'd like to think that my background in Philosophy contributes to the success of projects because of my ability to think conceptually and communicate clearly.
 
-My philosophical work focuses on the intersection of Philosophy and Artificial Intelligence. I am working on a PhD thesis titled _Institutional Responsibility for AI Systems: Kant's Account of Maxims as a Guiding Concept for Responsibility Practices in AI Companies_.
+My philosophical work focuses on the intersection of Philosophy and Artificial Intelligence. I am working on a PhD thesis titled _Institutional Responsibility for AI Systems: Kant's Account of Maxims as a Guiding Concept for Practices of Responsibility in AI Companies_.
 
 ## Some things I built:
 
