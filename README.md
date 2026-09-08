@@ -8,13 +8,13 @@ My philosophical work focuses on the intersection of Philosophy and Artificial I
 
 ## Websites:
 
+- personal website: [christiangleitze.com](https://www.christiangleitze.com)
 - AI Websites:
   - [Kant and AI](https://www.kantandai.com)
   - [Hegel and AI](https://www.hegelandai.com)
   - [Plato and AI](https://www.platoandai.com)
   - [Aristotle and AI](https://www.aristotleandai.com)
   - [Philosophy and AI](https://www.philosophy-and-ai.com)
-- [christiangleitze.com](https://www.christiangleitze.com)
 
 ## Other things:
 
