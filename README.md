@@ -15,7 +15,7 @@ My philosophical work focuses on the intersection of Philosophy and Artificial I
 - [Philosophy and AI](https://www.philosophy-and-ai.com)
 - [christiangleitze.com](https://www.christiangleitze.com)
 
-## Other things I built:
+## Other things:
 
 - Neovim plugins: [kant.nvim](https://github.com/chrisgleitze/kant.nvim) and [hegel.nvim](https://github.com/chrisgleitze/hegel.nvim)
 - [my Coding YouTube channel](https://www.youtube.com/@connectingdotscoding)
