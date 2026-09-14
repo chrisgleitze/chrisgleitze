@@ -15,6 +15,7 @@ My philosophical work focuses on the intersection of Philosophy and Artificial I
   - [Plato and AI](https://www.platoandai.com)
   - [Aristotle and AI](https://www.aristotleandai.com)
   - [Philosophy and AI](https://www.philosophy-and-ai.com)
+  - [Responsibility for AI Systems](https://responsibilityforai.com)
 
 ## Other things:
 
