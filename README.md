@@ -10,12 +10,12 @@ My philosophical work focuses on the intersection of Philosophy and Artificial I
 
 - personal website: [christiangleitze.com](https://www.christiangleitze.com)
 - AI Websites:
+  - [Philosophy and AI](https://www.philosophy-and-ai.com)
+  - [Responsibility for AI](https://responsibilityforai.com)
   - [Kant and AI](https://www.kantandai.com)
   - [Hegel and AI](https://www.hegelandai.com)
   - [Plato and AI](https://www.platoandai.com)
   - [Aristotle and AI](https://www.aristotleandai.com)
-  - [Philosophy and AI](https://www.philosophy-and-ai.com)
-  - [Responsibility for AI](https://responsibilityforai.com)
 
 ## Other things:
 
