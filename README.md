@@ -21,4 +21,4 @@ My philosophical work focuses on the intersection of Philosophy and Artificial I
 
 - Neovim plugins: [kant.nvim](https://github.com/chrisgleitze/kant.nvim) and [hegel.nvim](https://github.com/chrisgleitze/hegel.nvim)
 - [my Coding YouTube channel](https://www.youtube.com/@connectingdotscoding)
-- my podcast on [Spotify](https://open.spotify.com/show/68Ojkgjc3ybfwcpfLnKnau?si=wYO5awHvSRGHCZRGZvsocQ), [Apple Podcasts](https://podcasts.apple.com/de/podcast/the-connecting-dots-podcast/id1479050991?l=en) and [YouTube](https://www.youtube.com/channel/UC-1PjgE_j85PZpqS-E6Gjhg)
+- my former podcast on [Spotify](https://open.spotify.com/show/68Ojkgjc3ybfwcpfLnKnau?si=wYO5awHvSRGHCZRGZvsocQ), [Apple Podcasts](https://podcasts.apple.com/de/podcast/the-connecting-dots-podcast/id1479050991?l=en) and [YouTube](https://www.youtube.com/channel/UC-1PjgE_j85PZpqS-E6Gjhg)
