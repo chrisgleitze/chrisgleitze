@@ -4,7 +4,7 @@ a Software Engineer and Philosopher based in Frankfurt, Germany.
 
 On the engineering side, I work with React, Next.js, JavaScript, TypeScript, Java, Linux and Neovim. I'm also very passionate about using Neovim for coding and scientific work like writing research papers.
 
-My philosophical work focuses on the intersection of Philosophy and Artificial Intelligence. I am working on a PhD thesis titled _Institutional Responsibility for AI Systems: Kant's Account of Maxims as a Guiding Concept for Practices of Responsibility in AI Institutions_.
+My philosophical work focuses on the intersection of Philosophy and Artificial Intelligence. I am working on a [PhD thesis](https://www.christiangleitze.com/research/institutional-responsibility-ai) titled _Institutional Responsibility for AI Systems: Kant's Account of Maxims as a Guiding Concept for Practices of Responsibility in AI Institutions_.
 
 ## Websites:
 
